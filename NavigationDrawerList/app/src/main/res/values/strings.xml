@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zoo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_opened">Select an Item</string>
+    <string name="drawer_closed">Zoo</string>
+</resources>
