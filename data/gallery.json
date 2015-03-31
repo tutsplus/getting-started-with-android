@@ -1,0 +1,63 @@
+
+[
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_grizzly.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/grizzly.jpg",
+        "caption": "The grizzly bear is ative to North America and the official animal for my home state of California"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_blackfootedcat.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/blackfootedcat.jpg",
+        "caption": "The black footed cat, a desert variety of cat, is the smallest species of feline in Africa"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_bison.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/bison.jpg",
+        "caption": "A herd of American bison near my current home in Colorado"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_blueduiker.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/blueduiker.jpg",
+        "caption": "The blue duiker is the smallest species of antelope, and native to central Africa"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_elephantseal.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/elephantseal.jpg",
+        "caption": "An elephant seal bellowing along the beach near San Luis Obispo, California"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_redlemur.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/redlemur.jpg",
+        "caption": "A red lemur, a native species to Madagascar"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_gazelle.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/gazelle.jpg",
+        "caption": "Gazelle are able to travel up to 60 MPH (100 KPH) in short bursts"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_bullelk.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/bullelk.jpg",
+        "caption": "The elk is one of the largest land mammals in North America and eastern Asia"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_fennecfox.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/fennecfox.jpg",
+        "caption": "The Fennec Fox is a desert fox that gets all the water it needs through its diet, rather than drinking"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_hippo.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/hippo.jpg",
+        "caption": "The average hippopotamus weighs between 1,300kg and 1,500kg"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_graywolf.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/graywolf.jpg",
+        "caption": "One of the roughly 1700 gray wolves in the Rocky Mountain region of the United States"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/thumbnail_ocelot.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/gallery/ocelot.jpg",
+        "caption": "The ocelot is the largest feline with the ability to purr"
+    }
+]
