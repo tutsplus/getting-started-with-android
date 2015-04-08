@@ -6,4 +6,6 @@
     android:padding="8dp"
     android:textSize="16sp"
     android:gravity="center"
-    android:textColor="@android:color/black"/>
+    >
+
+</TextView>

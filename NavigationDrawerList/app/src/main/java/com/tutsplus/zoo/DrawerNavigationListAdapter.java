@@ -8,11 +8,11 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 /**
- * Created by paulruiz on 3/30/15.
+ * Created by paulruiz on 4/3/15.
  */
-public class NavigationDrawerListAdapter extends ArrayAdapter<String> {
+public class DrawerNavigationListAdapter extends ArrayAdapter<String> {
 
-    public NavigationDrawerListAdapter(Context context, int resource) {
+    public DrawerNavigationListAdapter(Context context, int resource) {
         super(context, resource);
     }
 
@@ -21,7 +21,7 @@ public class NavigationDrawerListAdapter extends ArrayAdapter<String> {
         ViewHolder holder;
         if( convertView == null ) {
             holder = new ViewHolder();
-            convertView = LayoutInflater.from( getContext() ).inflate( R.layout.view_navigation_list_item, parent, false );
+            convertView = LayoutInflater.from( getContext() ).inflate( R.layout.navigation_drawer_list_item, parent, false );
             convertView.setTag( holder );
         } else {
             holder = (ViewHolder) convertView.getTag();
@@ -33,7 +33,7 @@ public class NavigationDrawerListAdapter extends ArrayAdapter<String> {
         return convertView;
     }
 
-    public class ViewHolder {
+    class ViewHolder {
         TextView title;
     }
 }

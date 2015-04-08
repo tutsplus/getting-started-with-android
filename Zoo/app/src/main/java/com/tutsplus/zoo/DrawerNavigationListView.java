@@ -8,7 +8,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 /**
- * Created by paulruiz on 3/30/15.
+ * Created by paulruiz on 4/3/15.
  */
 public class DrawerNavigationListView extends ListView implements AdapterView.OnItemClickListener {
     public DrawerNavigationListView(Context context) {
@@ -22,16 +22,18 @@ public class DrawerNavigationListView extends ListView implements AdapterView.On
     public DrawerNavigationListView(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
 
-        NavigationDrawerListAdapter adapter = new NavigationDrawerListAdapter( getContext(), 0 );
+        DrawerNavigationListAdapter adapter = new DrawerNavigationListAdapter( getContext(), 0 );
         adapter.add( "Exhibits" );
         adapter.add( "Gallery" );
         adapter.add( "Maps" );
+
         setAdapter( adapter );
+
         setOnItemClickListener( this );
     }
 
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-        Toast.makeText( getContext(), "Item Clicked! " + getItemAtPosition( position ), Toast.LENGTH_SHORT ).show();
+        Toast.makeText( getContext(), "Section Clicked: " + parent.getItemAtPosition( position ), Toast.LENGTH_SHORT ).show();
     }
 }
