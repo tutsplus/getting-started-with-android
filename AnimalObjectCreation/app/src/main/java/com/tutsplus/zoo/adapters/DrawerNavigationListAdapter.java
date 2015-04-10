@@ -1,4 +1,4 @@
-package com.tutsplus.zoo;
+package com.tutsplus.zoo.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
+
+import com.tutsplus.zoo.R;
 
 /**
  * Created by paulruiz on 4/3/15.
