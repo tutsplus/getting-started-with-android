@@ -1,32 +1,22 @@
 [
 	{
-		"name": "",
-		"long": 123.32,
-		"lat": 123.32
+		"name": "Elephants",
+		"latitude": 39.749157,
+		"longitude": -104.953616
 	},
 	{
-		"name": "",
-		"long": 123.32,
-		"lat": 123.32
+		"name": "Tigers",
+		"latitude": 39.749817,
+		"longitude": -104.949195
 	},
 	{
-		"name": "",
-		"long": 123.32,
-		"lat": 123.32
+		"name": "Seals",
+		"latitude": 39.748712,
+		"longitude": -104.948616
 	},
 	{
-		"name": "",
-		"long": 123.32,
-		"lat": 123.32
-	},
-	{
-		"name": "",
-		"long": 123.32,
-		"lat": 123.32
-	},
-	{
-		"name": "",
-		"long": 123.32,
-		"lat": 123.32
+		"name": "Gorillas",
+		"latitude": 39.750444,
+		"longitude": -104.954817
 	}
 ]
