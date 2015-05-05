@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zoo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_opened">Select an Item</string>
+    <string name="drawer_closed">Zoo</string>
+
+    <string name="exhibits_feed">https://gist.githubusercontent.com/PaulTR/504dd8815919921f8c07/raw/ae525d177a69209973e32c7e41ef3261292911b4</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/PaulTR/dabbbd590c791a33f6e9/raw/deaf9ebbd69dedf5253ad02b09565138260fbe69</string>
+    <string name="pins_feed">https://gist.githubusercontent.com/PaulTR/7b24b7659fe85e71dc17/raw/0fb06dc25b5f701a75a49539a02acfa9a43158bc</string>
+</resources>
