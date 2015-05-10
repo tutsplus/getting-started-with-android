@@ -5,6 +5,9 @@
     android:layout_height="match_parent"
     android:numColumns="2"
     android:verticalSpacing="8dp"
-    android:horizontalSpacing="8dp">
+    android:horizontalSpacing="8dp"
+    android:padding="8dp"
+    android:scrollbarStyle="outsideOverlay"
+    android:clipToPadding="true">
 
 </GridView>

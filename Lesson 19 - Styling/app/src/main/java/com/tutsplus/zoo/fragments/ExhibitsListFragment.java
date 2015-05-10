@@ -1,6 +1,8 @@
 package com.tutsplus.zoo.fragments;
 
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ListFragment;
@@ -38,6 +40,13 @@ public class ExhibitsListFragment extends ListFragment {
         super.onActivityCreated(savedInstanceState);
 
         setListShown( false );
+
+        getListView().setPadding(16, 16, 16, 16);
+        getListView().setDivider( new ColorDrawable( Color.TRANSPARENT ));
+        getListView().setDividerHeight( 16 );
+        getListView().setScrollBarStyle( View.SCROLLBARS_OUTSIDE_OVERLAY );
+        getListView().setClipToPadding( true );
+
         mAdapter = new ExhibitsAdapter( getActivity(), 0 );
 
         RestAdapter restAdapter = new RestAdapter.Builder()
