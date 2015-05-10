@@ -23,7 +23,7 @@ Code
 
 ## Software/Languages/Frameworks: 
 
-Android SDK 22, Java 6, Android Studio 1.1
+Android SDK 22, Java JDK 1.8, Android Studio 1.1
 
 ## Course Rate: 
 
@@ -194,5 +194,11 @@ This lesson will teach you about some of the options you have available for styl
 ## 5.3 Conclusion ( Lesson 20 )
 
 This lesson will introduce you to additional resources for continuing your education with the Android platform.
+
+**Related Links**
+- [Tuts+ Android Tutorials] (https://code.tutsplus.com/categories/android-sdk)
+- [Official Android Developers Blog] (http://android-developers.blogspot.com/)
+- [Android Development Tutorials] (http://developer.android.com/guide/index.html)
+- [Android Samples] (http://developer.android.com/samples/index.html)
 
 I really hope you have enjoyed this course on Getting Started with Android and plan to continue having fun with the Android platform, my name is Paul Trebilcox-Ruiz and from all of us here at Tuts+ thanks for watching!
