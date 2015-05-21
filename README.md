@@ -6,6 +6,7 @@ Creating native Android apps allows you to deliver a first-class mobile experien
 
 In this course you will create an Android app for a zoo. You will create a list of exhibits that opens into a detail page, a gallery and a Google Maps section. You will also implement a navigation drawer and toolbar while learning the basics of Material design.
 
+
 ## Source Files Description
 
 Each folder in the source represents the end result of a lesson in this course and each lesson builds from the last. The data folder contains a set of JSON files that are used for populating data into the application and the images folder contains a set of Creative Commons licensed images from Instagram that can be used within the app.
